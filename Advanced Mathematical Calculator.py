@@ -5,14 +5,6 @@ from sympy.integrals import *
 from sympy.abc import t,s,a,x
 import math
 
-'''
-Made By:
-Aniket Chakraborty BT18GCS081
-Swattik Chakrabarty BT18GCS085
-Nitish Ranjan BT18GCS088
-Tamanna Karthik BT18GCS075
-'''
-
 temp=0
 flag=0
 expression=''
@@ -466,11 +458,4 @@ Button_differentiate.grid(row=3, column=1)
 Button_power.grid(row =3, column=2)
 #/Advanced Windows
 
-'''
-Made By:
-Aniket Chakraborty BT18GCS081
-Swattik Chakrabarty BT18GCS085
-Nitish Ranjan BT18GCS088
-Tamanna Karthik BT18GCS075
-'''
 root.mainloop();
